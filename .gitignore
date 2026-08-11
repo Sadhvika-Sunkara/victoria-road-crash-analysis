@@ -1,0 +1,13 @@
+# Virtual environment - don't upload to GitHub
+venv/
+
+# Raw data files - too large for GitHub
+data/raw/
+data/processed/
+
+# Jupyter hidden files
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
