@@ -1,0 +1,9 @@
+DAY_OF_WEEK,fatalities,pct_of_total,day_type
+Saturday,565,15.7,Weekend
+Friday,554,15.4,Weekday
+Sunday,539,15.0,Weekend
+Thursday,518,14.4,Weekday
+Wednesday,466,13.0,Weekday
+Monday,464,12.9,Weekday
+Tuesday,427,11.9,Weekday
+,62,1.7,Weekday

@@ -1,0 +1,11 @@
+SPEED_ZONE,TOTAL_CRASHES,FATALITIES,FATAL_RATE_PCT,road_type
+110,2087,121,5.8,Regional/Highway
+100,28218,1497,5.3,Regional/Highway
+75,20,1,5.0,Suburban/Mixed
+90,505,22,4.4,Regional/Highway
+80,30377,616,2.0,Suburban/Mixed
+70,12540,198,1.6,Suburban/Mixed
+60,65305,695,1.1,Urban
+50,32987,307,0.9,Urban
+40,12937,74,0.6,Urban
+30,421,2,0.5,Urban
